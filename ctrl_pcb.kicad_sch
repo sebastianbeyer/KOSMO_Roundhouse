@@ -1926,7 +1926,7 @@
     (in_bom yes) (on_board yes)
     (uuid cde52449-1802-4adc-a866-ab00b9a2ee79)
     (property "Reference" "R18" (id 0) (at 228.6 77.47 90))
-    (property "Value" "1M" (id 1) (at 228.6 80.01 90))
+    (property "Value" "10k" (id 1) (at 228.6 80.01 90))
     (property "Footprint" "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 228.6 81.788 90)
       (effects (font (size 1.27 1.27)) hide)
     )

@@ -1944,6 +1944,9 @@
     (path "/7d126977-7d5b-45bd-a969-4dc0b43eba2b/cf83db65-0b2a-49b0-b015-2070dafd14aa/2d516773-b79a-4772-8c7c-2bfa53d9c9b3"
       (reference "R78") (unit 1) (value "15k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
+    (path "/7d126977-7d5b-45bd-a969-4dc0b43eba2b/8aa169ea-eabc-4744-8c2e-4d1e831aa4e7"
+      (reference "R79") (unit 1) (value "100k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+    )
     (path "/7d126977-7d5b-45bd-a969-4dc0b43eba2b/cf83db65-0b2a-49b0-b015-2070dafd14aa/68a7dc5d-dad3-4636-aa2f-0cd0280280d0"
       (reference "RV1") (unit 1) (value "10k") (footprint "ao_tht:Potentiometer_Bourns_3296Z_Horizontal")
     )
